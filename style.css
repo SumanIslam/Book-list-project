@@ -1,0 +1,51 @@
+body, html {
+  color: #333;
+  font-family: cursive;
+}
+.container {
+  width: 900px;
+  margin: auto;
+}
+h1 {
+  font-size: 2.7rem;
+  margin-top: -0.3rem;
+}
+label, input {
+  width: 100%;
+  display: block;
+}
+label {
+  font-size: 1.2rem;
+}
+input {
+  padding: 0.7rem 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #bbb9b9;
+}
+div {
+  margin-top: 1rem;
+}
+div:nth-child(1) {
+  margin-top: 0;
+}
+.success, .error {
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+.success {
+  background: green;
+}
+.error{
+  background: red;
+}
+
+table {
+  margin-top: 1rem;
+  width: 100%;
+  text-align: center;
+}
+thead th{
+  border-bottom: 1px solid #999;
+  color: #333;
+}
