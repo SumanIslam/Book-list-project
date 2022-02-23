@@ -1,2 +1,2 @@
-## Live Preview
-https://gallant-leakey-f7263a.netlify.app/
+## website link
+Click [here](https://sumanislam.github.io/Book-list-project/) to see the Live preview of the website.
